@@ -1,0 +1,100 @@
+.cutx{
+    color: aliceblue;
+    font-size: 20px; 
+    
+}
+
+.cutx1{
+    font-size: 20px;
+    font-family: 'Anton', sans-serif;
+    transition: transform .3s;
+    color: #434343;
+}
+
+.cutx1:hover{
+    color: #000000;
+}
+
+.cutx2{
+    font-size: 20px;
+    font-family: 'Anton', sans-serif;
+    color: aliceblue;
+    margin-top: 30px;
+    margin-left: 59px;
+    font-size: 30px;
+}
+
+.cutx3{
+    font-size: 20px;
+    font-family: 'Anton', sans-serif;
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+
+}
+
+.cutx4{
+    font-size: 20px;
+    font-family: 'Anton', sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+
+}
+
+.bkk{
+    background-color: black;
+    border-top: 1px solid #000000;
+}
+
+
+.imaj1{
+    height: 90px;
+    width: 90px;
+    padding: 10px;
+    filter:drop-shadow(1px 1px 5px #000000)
+}
+
+.imaj2{
+    height: 100px;
+    width: 100px;
+    padding: 10px;
+    margin-left: 20px;
+    filter:drop-shadow(1px 1px 5px #000000)
+}
+
+.imaj3{
+    height: 100px;
+    width: 100px;
+    padding: 10px;
+    filter:drop-shadow(1px 1px 5px #000000)
+}
+
+.imaj4{
+    height: 95px;
+    width: 152px;
+    padding: 10px;
+    filter:drop-shadow(1px 1px 5px #000000)
+}
+
+.imaj5{
+    height: 110px;
+    width: 110px;
+    padding: 10px;
+    filter:drop-shadow(1px 1px 5px #000000)
+    
+}
+
+.imaj1:hover{
+    transform: scale(1.1); 
+}
+.imaj2:hover{
+    transform: scale(1.1); 
+}
+.imaj3:hover{
+    transform: scale(1.1); 
+}
+.imaj4:hover{
+    transform: scale(1.1); 
+}
+.imaj5:hover{
+    transform: scale(1.1); 
+}

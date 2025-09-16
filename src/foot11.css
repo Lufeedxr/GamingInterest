@@ -1,0 +1,71 @@
+.footer {
+    background-color: #ffffff;
+    padding: 50px;
+    text-align: center;
+    font-size: 14px;
+    color: #ffffff;
+  }
+
+  .footer-social {
+    margin-bottom: 10px;
+  }
+
+  .social-icon {
+    margin: 0 10px;
+    font-size: 20px;
+    color: #ffffff;
+    text-decoration: none;
+  }
+
+  .social-icon:hover {
+    color: #ffffff;
+  }
+
+  .footer-country {
+
+    margin-bottom: 20px;
+  }
+
+  .country-label {
+    margin-right: 10px;
+    font-weight: bold;
+  }
+
+  .country-select {
+    padding: 5px;
+    font-size: 14px;
+  }
+
+  .footer-links p {
+    margin: 10px 0;
+  }
+
+  .footer-policy-links {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    color: #000000;
+    position: sticky;
+    
+  }
+
+  .footer-policy-links li {
+    display: inline;
+  }
+
+  .footer-policy-links a {
+    text-decoration: none;
+    color: #000000;
+  }
+
+  .footer-policy-links a:hover {
+    text-decoration: underline;
+    background-color: #ffffff;
+  }
+
+  .logo {
+    width: 30px;
+  }

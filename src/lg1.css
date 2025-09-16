@@ -1,0 +1,21 @@
+.pz{
+    height: 300px;
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.pz2{
+    width: 50px;
+    height: 50px;
+    padding: 8px;
+    margin-right:10px;
+}
+
+.bk{
+    margin-top: 1px;
+    background-color: black;
+    border-top: 3px solid #ffffff;
+    background-repeat:no-repeat;
+}
